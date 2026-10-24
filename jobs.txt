@@ -1,0 +1,145 @@
+closed opensense 0 0
+closed opensense 1 0
+closed opensense 2 0
+closed opensense 3 0
+closed opensense 4 0
+closed stgcn 2 0
+closed xmtf 3 0
+closed langbind 3 0
+closed attn 3 0
+closed stgcn 3 0
+closed dcl 3 0
+closed depth 3 0
+closed xmtf 4 0
+closed actionmae 4 0
+closed langbind 4 0
+closed early 4 0
+closed attn 4 0
+closed stgcn 4 0
+closed dcl 4 0
+closed depth 4 0
+open opensense 0 0 mirror
+open langbind 0 0 mirror
+open abl_labeltext 0 0 mirror
+open xmtf 0 0 mirror
+open edl 0 0 mirror
+open opensense 1 0 mirror
+open langbind 1 0 mirror
+open abl_labeltext 1 0 mirror
+open xmtf 1 0 mirror
+open edl 1 0 mirror
+open opensense 2 0 mirror
+open langbind 2 0 mirror
+open abl_labeltext 2 0 mirror
+open xmtf 2 0 mirror
+open edl 2 0 mirror
+open opensense 3 0 mirror
+open langbind 3 0 mirror
+open abl_labeltext 3 0 mirror
+open xmtf 3 0 mirror
+open edl 3 0 mirror
+open opensense 4 0 mirror
+open langbind 4 0 mirror
+open abl_labeltext 4 0 mirror
+open xmtf 4 0 mirror
+open edl 4 0 mirror
+open opensense 0 0 shuffle
+open langbind 0 0 shuffle
+open abl_labeltext 0 0 shuffle
+open xmtf 0 0 shuffle
+open edl 0 0 shuffle
+open opensense 1 0 shuffle
+open langbind 1 0 shuffle
+open abl_labeltext 1 0 shuffle
+open xmtf 1 0 shuffle
+open edl 1 0 shuffle
+open opensense 2 0 shuffle
+open langbind 2 0 shuffle
+open abl_labeltext 2 0 shuffle
+open xmtf 2 0 shuffle
+open edl 2 0 shuffle
+open opensense 3 0 shuffle
+open langbind 3 0 shuffle
+open abl_labeltext 3 0 shuffle
+open xmtf 3 0 shuffle
+open edl 3 0 shuffle
+open opensense 4 0 shuffle
+open langbind 4 0 shuffle
+open abl_labeltext 4 0 shuffle
+open xmtf 4 0 shuffle
+open edl 4 0 shuffle
+open opensense 0 0 holistic
+open langbind 0 0 holistic
+open abl_labeltext 0 0 holistic
+open xmtf 0 0 holistic
+open edl 0 0 holistic
+open opensense 1 0 holistic
+open langbind 1 0 holistic
+open abl_labeltext 1 0 holistic
+open xmtf 1 0 holistic
+open edl 1 0 holistic
+open opensense 2 0 holistic
+open langbind 2 0 holistic
+open abl_labeltext 2 0 holistic
+open xmtf 2 0 holistic
+open edl 2 0 holistic
+open opensense 3 0 holistic
+open langbind 3 0 holistic
+open abl_labeltext 3 0 holistic
+open xmtf 3 0 holistic
+open edl 3 0 holistic
+open opensense 4 0 holistic
+open langbind 4 0 holistic
+open abl_labeltext 4 0 holistic
+open xmtf 4 0 holistic
+open edl 4 0 holistic
+closed abl_nopre 0 0
+closed abl_coupled 0 0
+closed abl_norel 0 0
+closed abl_gennone 0 0
+closed abl_genraw 0 0
+closed abl_flat 0 0
+closed abl_nopre 1 0
+closed abl_coupled 1 0
+closed abl_norel 1 0
+closed abl_gennone 1 0
+closed abl_genraw 1 0
+closed abl_flat 1 0
+closed abl_nopre 2 0
+closed abl_coupled 2 0
+closed abl_norel 2 0
+closed abl_gennone 2 0
+closed abl_genraw 2 0
+closed abl_flat 2 0
+closed abl_nopre 3 0
+closed abl_coupled 3 0
+closed abl_norel 3 0
+closed abl_gennone 3 0
+closed abl_genraw 3 0
+closed abl_flat 3 0
+closed abl_nopre 4 0
+closed abl_coupled 4 0
+closed abl_norel 4 0
+closed abl_gennone 4 0
+closed abl_genraw 4 0
+closed abl_flat 4 0
+limited opensense 0 0 0.1
+limited opensense 0 0 0.25
+limited abl_nopre 0 0 0.1
+limited abl_nopre 0 0 0.25
+limited opensense 1 0 0.1
+limited opensense 1 0 0.25
+limited abl_nopre 1 0 0.1
+limited abl_nopre 1 0 0.25
+limited opensense 2 0 0.1
+limited opensense 2 0 0.25
+limited abl_nopre 2 0 0.1
+limited abl_nopre 2 0 0.25
+limited opensense 3 0 0.1
+limited opensense 3 0 0.25
+limited abl_nopre 3 0 0.1
+limited abl_nopre 3 0 0.25
+limited opensense 4 0 0.1
+limited opensense 4 0 0.25
+limited abl_nopre 4 0 0.1
+limited abl_nopre 4 0 0.25

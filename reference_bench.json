@@ -1,0 +1,38 @@
+{
+ "stgcn": {
+  "params": 182038,
+  "latency_ms": 4.977955780050252
+ },
+ "dcl": {
+  "params": 218966,
+  "latency_ms": 1.8392113199661253
+ },
+ "depth": {
+  "params": 117918,
+  "latency_ms": 1.1485498399997596
+ },
+ "early": {
+  "params": 261022,
+  "latency_ms": 1.805886699949042
+ },
+ "attn": {
+  "params": 290590,
+  "latency_ms": 2.1339217200147687
+ },
+ "xmtf": {
+  "params": 530304,
+  "latency_ms": 2.4143157800426707
+ },
+ "actionmae": {
+  "params": 754176,
+  "latency_ms": 2.7746457999455743
+ },
+ "langbind": {
+  "params": 410767,
+  "latency_ms": 2.6313687399670016
+ },
+ "opensense": {
+  "params": 858816,
+  "latency_ms": 2.7617252400523284
+ }
+}

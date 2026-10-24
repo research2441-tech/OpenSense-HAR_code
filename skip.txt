@@ -1,0 +1,10 @@
+limited opensense 0 0 0.1
+limited abl_nopre 0 0 0.1
+limited opensense 1 0 0.1
+limited abl_nopre 1 0 0.1
+limited opensense 2 0 0.1
+limited abl_nopre 2 0 0.1
+limited opensense 3 0 0.1
+limited abl_nopre 3 0 0.1
+limited opensense 4 0 0.1
+limited abl_nopre 4 0 0.1
